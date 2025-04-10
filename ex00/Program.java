@@ -9,8 +9,6 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.Scanner;
 
-// github test
-
 class Program {
     public static void main(String[] args) {
         Path workDir = Paths.get(System.getProperty("user.dir"));
